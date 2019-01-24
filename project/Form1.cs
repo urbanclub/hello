@@ -54,8 +54,13 @@ namespace project
             }else
             {
 
-                label4.Text = "Not solvel";
+                
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
